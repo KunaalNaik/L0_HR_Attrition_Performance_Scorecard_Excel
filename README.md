@@ -1,2 +1,4 @@
-# L0_HR_Attrition_Performance_Scorecard_Excel
+# HR Attrition Performance Scorecard 
+## Tool used : Excel
  
+![Performance Scorecard](images/sample_scorecard.PNG)
